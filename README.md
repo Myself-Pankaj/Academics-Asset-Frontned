@@ -2,11 +2,31 @@
 
 This project is a dynamic web application created using **React**, enriched with **Framer Motion** for delightful animations, **Sass** for enhanced styling, and **React-Redux** for state management.
 
+## Features ✨
+
+This dynamic web application offers a wide range of features to enhance the user experience:
+
+1. 📚 **Buy Handwritten Notes:** Students can conveniently purchase handwritten notes, making their academic journey more accessible and resourceful.
+
+2. 🎥 **Stream Online Video Lectures:** Users can access and stream online video lectures on specific topics, providing a valuable learning resource.
+
+3. 💬 **Open Question and Answer Portal:** The application features an open portal where users can ask questions and receive answers from the community, facilitating knowledge sharing.
+
+4. 💼 **Job Opportunities and Applications:** Users can explore job opportunities and easily submit applications through the platform, streamlining the hiring process.
+
+
 ## 📷 Live Demo
 
 You can try out the live demo of the app by visiting the following link:
 
 [Live Demo](https://accedemic-assets.netlify.app/)
+
+## 🛠️ Getting Started
+
+To run the React Frontend App locally, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Install the necessary dependencies using `npm install`.
 
 ## 💡 Available Scripts
 
