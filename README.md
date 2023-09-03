@@ -2,6 +2,12 @@
 
 This project is a dynamic web application created using **React**, enriched with **Framer Motion** for delightful animations, **Sass** for enhanced styling, and **React-Redux** for state management.
 
+## 📷 Live Demo
+
+You can try out the live demo of the app by visiting the following link:
+
+[Live Demo](https://accedemic-assets.netlify.app/)
+
 ## 💡 Available Scripts
 
 In the project directory, you can run:
@@ -74,11 +80,7 @@ For state management, dive into <img src="https://res.cloudinary.com/attar-shop/
 </div>
 
 
-## 📷 Live Demo
 
-You can try out the live demo of the app by visiting the following link:
-
-[Live Demo](https://accedemic-assets.netlify.app/)
 
 
 
