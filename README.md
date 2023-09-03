@@ -39,19 +39,26 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To learn React, check out the <img src="https://res.cloudinary.com/attar-shop/image/upload/v1693736723/MyFolder/reactLogo_qlxe5x.png" alt="React Logo" width="32" height="32">.
 
-For delightful animations, explore [Framer Motion](https://www.framer.com/motion/).
+For delightful animations, explore <img src="https://res.cloudinary.com/attar-shop/image/upload/v1693737212/MyFolder/framer-motion_u68ecu.png" alt="Framer Motion Logo" width="32" height="32">.
 
-Enhance your styles with [Sass](https://sass-lang.com/).
+Enhance your styles with <img src="https://res.cloudinary.com/attar-shop/image/upload/v1693736754/MyFolder/sassLogo_jkmp1h.png" alt="Sass Logo" width="32" height="32">.
 
-For state management, dive into [React-Redux](https://react-redux.js.org/).
+For state management, dive into <img src="https://res.cloudinary.com/attar-shop/image/upload/v1693737285/MyFolder/reduxLogo_sy4nk8.png" alt="Redux Logo" width="32" height="32">.
 
-👉 Please note that the backend part you can find [here](https://github.com/Myself-Pankaj/Academics-Asset-Backend).
+👉 Please note that the backend part you can find [Here](https://github.com/Myself-Pankaj/Academics-Asset-Backend).
 
-Enjoy building your dynamic web application with this powerful tech stack! 🚀
 
 ## 👨‍💻 Author
 
 [![Instagram Icon](https://img.icons8.com/color/96/000000/instagram-new.png)](https://www.instagram.com/ifeelpankaj) 
  [![LinkedIn Icon](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/ifeelpankaj) 
+
+
+## 📷 Quick Look
+- ![Screenshot 1](https://res.cloudinary.com/attar-shop/image/upload/v1693734536/MyFolder/1_jallti.png)
+- ![Screenshot 2](https://res.cloudinary.com/attar-shop/image/upload/v1693734538/MyFolder/2_ixtjh5.png)
+- ![Screenshot 3](https://res.cloudinary.com/attar-shop/image/upload/v1693734542/MyFolder/3_jtnzkr.png)
+
+Enjoy building your dynamic web application with this powerful tech stack! 🚀
