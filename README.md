@@ -57,8 +57,30 @@ For state management, dive into <img src="https://res.cloudinary.com/attar-shop/
 
 
 ## 📷 Quick Look
-- ![Screenshot 1](https://res.cloudinary.com/attar-shop/image/upload/v1693734536/MyFolder/1_jallti.png)
-- ![Screenshot 2](https://res.cloudinary.com/attar-shop/image/upload/v1693734538/MyFolder/2_ixtjh5.png)
-- ![Screenshot 3](https://res.cloudinary.com/attar-shop/image/upload/v1693734542/MyFolder/3_jtnzkr.png)
+
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img src="https://res.cloudinary.com/attar-shop/image/upload/v1693734536/MyFolder/1_jallti.png" alt="Screenshot 1" width="100%">
+    <p align="center">Screenshot 1</p>
+  </div>
+  <div>
+    <img src="https://res.cloudinary.com/attar-shop/image/upload/v1693734538/MyFolder/2_ixtjh5.png" alt="Screenshot 2" width="100%">
+    <p align="center">Screenshot 2</p>
+  </div>
+  <div>
+    <img src="https://res.cloudinary.com/attar-shop/image/upload/v1693734542/MyFolder/3_jtnzkr.png" alt="Screenshot 3" width="100%">
+    <p align="center">Screenshot 3</p>
+  </div>
+</div>
+
+
+## 📷 Live Demo
+
+You can try out the live demo of the app by visiting the following link:
+
+[Live Demo](https://accedemic-assets.netlify.app/)
+
+
+
 
 Enjoy building your dynamic web application with this powerful tech stack! 🚀
