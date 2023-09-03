@@ -1,0 +1,134 @@
+@import "colors";
+
+.detailblock {
+  background-color: white;
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+
+  > main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    background-color: white;
+    width: 25%;
+    padding: 2rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.495);
+    > .crousel1 {
+      // border-radius: 20px;
+      margin: 0 0 0rem 0;
+      width: 200px;
+      
+    }
+    > h2 {
+      font-size: 1.5rem;
+      margin: 0 0 0.5rem 0;
+      font-weight: 900;
+      color: $BloodyRed;
+    }
+    > h1 {
+      font-size: 1.8rem;
+      color: $HighlightRed;
+    }
+    > p {
+      color: $GrassyGreen;
+    }
+    > div {
+      border: 1px solid $lightdark;
+      margin: 0 0 0.5rem 0;
+      > button {
+        border: none;
+        background-color: $BloodyRed;
+        padding: 0.8rem;
+        cursor: pointer;
+        color: white;
+        transition: all 0.5s;
+      }
+      > input {
+        border: none;
+        width: 2rem;
+        text-align: center;
+        outline: none;
+        font: 900 0.8vmax "Roboto";
+        color: black;
+      }
+    }
+    > button {
+      border: none;
+      padding: 0.5vmax;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.495);
+      cursor: pointer;
+      color: $dark;
+      transition: all 0.5s;
+      border-radius: 10px;
+      > span {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font: 900 1rem "Roboto";
+      }
+    }
+  }
+}
+.CarouselImage{
+  width: 100%;
+}
+@media screen and (max-width: 600px) {
+ .detailblock > main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  background-color: white;
+  width: 90%;
+  padding: 3rem;
+  margin: 2rem;
+  box-shadow: 0 0 10px rgb(0 0 0 / 50%);
+}
+.detailblock > main > h2 {
+  font-size: 1.5rem;
+  margin: 1.5rem 0px 1.5rem 0;
+  font-weight: 900;
+  color: #660000;
+}
+.detailblock > main > h1 {
+  font-size: 4rem;
+  color: #F72F35;
+}
+.detailblock > main > p {
+  color: #9bc400;
+  font-size: 1.5rem;
+}
+.detailblock > main > div {
+  border: 1px solid rgba(33, 33, 33, 0.711);
+  margin: 1.5rem 0 1.5rem 0;
+}
+.detailblock > main > div > input {
+  border: none;
+  width: 3rem;
+  text-align: center;
+  outline: none;
+  font: 900 3vmax "Roboto";
+  color: black;
+}
+.detailblock > main > button {
+  border: none;
+  padding: 2vmax;
+  box-shadow: 0 0 10px rgb(0 0 0 / 50%);
+  cursor: pointer;
+  color: rgb(33, 33, 33);
+  transition: all 0.5s;
+  border-radius: 10px;
+}
+.detailblock > main > button > span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font: 900 1.5rem "Roboto";
+}
+}
