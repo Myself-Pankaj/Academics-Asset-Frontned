@@ -50,3 +50,8 @@ For state management, dive into [React-Redux](https://react-redux.js.org/).
 👉 Please note that the backend part you can find [here](https://github.com/Myself-Pankaj/Academics-Asset-Backend).
 
 Enjoy building your dynamic web application with this powerful tech stack! 🚀
+
+## 👨‍💻 Author
+
+[![Instagram Icon](https://img.icons8.com/color/96/000000/instagram-new.png)](https://www.instagram.com/ifeelpankaj) 
+ [![LinkedIn Icon](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/ifeelpankaj) 
