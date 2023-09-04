@@ -1,4 +1,4 @@
-# 🌈 React Project 
+# 🌈 Academics-Asset 
 
 This project is a dynamic web application created using **React**, enriched with **Framer Motion** for delightful animations, **Sass** for enhanced styling, and **React-Redux** for state management.
 
