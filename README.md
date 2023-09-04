@@ -2,6 +2,13 @@
 
 This project is a dynamic web application created using **React**, enriched with **Framer Motion** for delightful animations, **Sass** for enhanced styling, and **React-Redux** for state management.
 
+
+## 📷 Live Demo
+
+You can try out the live demo of the app by visiting the following link:
+
+[Live Demo](https://accedemic-assets.netlify.app/)
+
 ## Features ✨
 
 This dynamic web application offers a wide range of features to enhance the user experience:
@@ -15,11 +22,6 @@ This dynamic web application offers a wide range of features to enhance the user
 4. 💼 **Job Opportunities and Applications:** Users can explore job opportunities and easily submit applications through the platform, streamlining the hiring process.
 
 
-## 📷 Live Demo
-
-You can try out the live demo of the app by visiting the following link:
-
-[Live Demo](https://accedemic-assets.netlify.app/)
 
 ## 🛠️ Getting Started
 
