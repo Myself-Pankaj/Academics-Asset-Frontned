@@ -9,6 +9,9 @@ You can try out the live demo of the app by visiting the following link:
 
 [Live Demo](https://accedemic-assets.netlify.app/)
 
+
+👉 Please note that the backend part you can find [Here](https://github.com/Myself-Pankaj/Academics-Asset-Backend).
+
 ## Features ✨
 
 This dynamic web application offers a wide range of features to enhance the user experience:
@@ -75,7 +78,7 @@ Enhance your styles with <img src="https://res.cloudinary.com/attar-shop/image/u
 
 For state management, dive into <img src="https://res.cloudinary.com/attar-shop/image/upload/v1693737285/MyFolder/reduxLogo_sy4nk8.png" alt="Redux Logo" width="32" height="32">.
 
-👉 Please note that the backend part you can find [Here](https://github.com/Myself-Pankaj/Academics-Asset-Backend).
+
 
 
 ## 👨‍💻 Author
