@@ -11,8 +11,8 @@ You can try out the live demo of the app by visiting the following link:
 
 ***Note Note Website may be little bit slow because of using free resource for deployment***
 
-👉 Please note that the backend part you can find [Here](https://github.com/Myself-Pankaj/Academics-Asset-Backend).
-👉 Please note that the frontend part you can find [Here](https://github.com/Myself-Pankaj/Academics-Asset-Frontned).
+- 👉 Please note that the backend part you can find [Here](https://github.com/Myself-Pankaj/Academics-Asset-Backend).
+- 👉 Please note that the frontend part you can find [Here](https://github.com/Myself-Pankaj/Academics-Asset-Frontned).
 
 
 ## Features ✨
