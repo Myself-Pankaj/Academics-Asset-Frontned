@@ -98,10 +98,6 @@ For state management, dive into <img src="https://res.cloudinary.com/attar-shop/
 
 <div style="display: flex; justify-content: space-between;">
   <div>
-    <img src="https://res.cloudinary.com/attar-shop/image/upload/v1693734536/MyFolder/1_jallti.png" alt="Screenshot 1" width="100%">
-    <p align="center">Screenshot 1</p>
-  </div>
-  <div>
     <img src="https://res.cloudinary.com/attar-shop/image/upload/v1693734538/MyFolder/2_ixtjh5.png" alt="Screenshot 2" width="100%">
     <p align="center">Screenshot 2</p>
   </div>
