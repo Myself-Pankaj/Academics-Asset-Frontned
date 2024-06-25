@@ -1,6 +1,10 @@
 # 🌈 Academics-Asset 
 
 This project is a dynamic web application created using **React**, enriched with **Framer Motion** for delightful animations, **Sass** for enhanced styling, and **React-Redux** for state management.
+ <div>
+    <img src="https://res.cloudinary.com/attar-shop/image/upload/v1693734536/MyFolder/1_jallti.png" alt="Screenshot 1" width="100%">
+    <p align="center">Screenshot 1</p>
+  </div>
 
 
 ## 📷 Live Demo
